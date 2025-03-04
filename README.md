@@ -2,7 +2,7 @@
 
 ### Wise (UGA Hackathon 2023) - Full-Stack AI-Powered Question Answering System
 - **Description**: A full-stack application built for the **UGA Hackathon 2023**, using artificial intelligence to answer questions based on a user-selected book. The system analyzes user queries using NLP techniques like bag-of-words to extract the most relevant phrase or answer from the book's text.
-- **Repository Link**: [Wise - AI Question Answering System](https://github.com/yourusername/wise](https://github.com/farisdurrani/wise?tab=readme-ov-file)
+- **Repository Link**: [Wise - AI Question Answering System](https://github.com/farisdurrani/wise?tab=readme-ov-file)
 - **Technologies used**: ReactJS, Python, NLP (Bag-of-Words), Natural Language Processing
 - **Role**: Backend development (Python AI implementation, sentiment analysis)
 - **Features**:
