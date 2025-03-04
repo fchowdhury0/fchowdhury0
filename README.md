@@ -1,6 +1,6 @@
 ## My Collaborated Projects
 
-### Movie Theater Website
+### Full Stack Movie Theater Booking Site
 - **Description**: A full-stack movie theater website developed for a **Data Structures** class project in collaboration with three other students. The website allows users to create an account, add payment cards, browse movies, and book tickets. The project also includes a localized, seeded database for movie information, showtimes, and user data.
 - **Repository Link**: [Movie Theater Website](https://github.com/fchowdhury0/tuah-tuah-movies)
 - **Technologies used**: React, Spring Boot, PostgreSQL, Maven, Formik, Yup, Sass
