@@ -1,6 +1,6 @@
 ## My Collaborated Projects
 
-### Full Stack Movie Theater Booking Site
+### Tuah Tuah Movies - Full Stack Movie Theater Booking Site
 - **Description**: A full-stack movie theater website developed for a **Data Structures** class project in collaboration with three other students. The website allows users to create an account, add payment cards, browse movies, and book tickets. The project also includes a localized, seeded database for movie information, showtimes, and user data.
 - **Repository Link**: [Movie Theater Website](https://github.com/fchowdhury0/tuah-tuah-movies)
 - **Technologies used**: React, Spring Boot, PostgreSQL, Maven, Formik, Yup, Sass
@@ -29,9 +29,9 @@
     - Designed a **scalable and normalized schema** for the movie theater website, ensuring **data integrity** as the platform grew.
 
 
-### Full-Stack Book Review Platform
+### Prose: Full-Stack Book Review Platform
 - **Description**: A full-stack book review platform built with Next.js, TypeScript, MongoDB, Tailwind CSS, and NextAuth.js for user authentication. The platform allows users to write and edit reviews, view books by genre, and manage their accounts.
-- **Repository Link**: [Book Review Platform](https://github.com/username/book-review-platform)
+- **Repository Link**: [Book Review Platform](https://github.com/IvanC314/Prose)
 - **Technologies used**: Next.js, TypeScript, MongoDB, Mongoose, NextAuth.js, Tailwind CSS
 - **Role**: Full-stack development (authentication, review handling, user profiles)
 - **Features**:
